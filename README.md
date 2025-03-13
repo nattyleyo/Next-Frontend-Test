@@ -15,7 +15,7 @@
 </ul>
 
 <h2>📸 UI Screenshots</h2>
-![image alt](https://github.com/nattyleyo/Next-Frontend-Test/blob/1c50673e641929b06765ad8bef357587a24a5d23/public/screenshots/Screenshot-(421).png)
+<img src="https://github.com/nattyleyo/Next-Frontend-Test/blob/1c50673e641929b06765ad8bef357587a24a5d23/public/screenshots/Screenshot-(421).png" alt="Chat Interface" />
 
 <h2>🏗️ Tech Stack</h2>
 <ul>
